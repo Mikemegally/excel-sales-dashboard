@@ -15,6 +15,7 @@ This project demonstrates an end-to-end Excel data analysis workflow:
 
 ## Dashboard
 ![excel-sales-dashboard](sales analysis1.png)
+[Sales Dashboard](Excel_Project.png)
 
 ## Files
 - `Sales_Report_Project.xlsx`: Full Excel file (Power Query, Data Model, PivotTables, Dashboard)
