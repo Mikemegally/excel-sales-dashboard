@@ -15,7 +15,7 @@ This project demonstrates an end-to-end Excel data analysis workflow:
 
 ## Dashboard
 
-
+![Sales Dashboard](sales_analysis_1.png)
 
 
 ## Files
