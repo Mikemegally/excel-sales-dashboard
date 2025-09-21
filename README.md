@@ -20,7 +20,7 @@ This project demonstrates an end-to-end Excel data analysis workflow:
 
 ## Files
 - `Sales_Report_Project.xlsx`: Full Excel file (Power Query, Data Model, PivotTables, Dashboard)
-- `Excel_Project.png`: Dashboard screenshot
+- `sales_analysis_1.png & sales_analysis_2.png`: Dashboard screenshot
 
 ## Tools Used
 - Excel (Power Query, Power Pivot, DAX, PivotTables, Charts)
