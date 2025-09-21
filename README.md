@@ -10,7 +10,7 @@ This project demonstrates an end-to-end Excel data analysis workflow:
 ## Key Insights
 - Total Revenue: $5.1B  
 - Total Orders: 9,990  
-- Top-performing product: Laptops ($1.48B revenue)  
+- Top-performing product: Laptops ($1477.6M revenue)  
 - Customer distribution: Electronics category leads with 8,357 customers  
 
 ## Dashboard
