@@ -14,7 +14,8 @@ This project demonstrates an end-to-end Excel data analysis workflow:
 - Customer distribution: Electronics category leads with 8,357 customers  
 
 ## Dashboard
-[excel-sales-dashboard](Sales analysis 2.png)
+[excel-sales-dashboard](sales analysis 1.png)
+sales analysis 1.png
 [Sales Dashboard](Excel_Project.png)
 
 ## Files
